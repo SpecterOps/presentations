@@ -1,4 +1,4 @@
-# NTLM: THe Legacy Protocol That Won't Die
+# NTLM: The Legacy Protocol That Won't Die
 
 **Speaker:** Elad Shamir
 

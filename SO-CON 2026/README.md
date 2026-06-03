@@ -4,4 +4,6 @@
 
 This repository contains the presentation materials for the SO-CON 2026 conference held on April 13-14, 2026.
 
+You can also watch the SO-CON 2026 presentations on [Youtube](https://ghst.ly/SOCON26YT)!
+
 ![](SO-CON_2026_Logo.png)
